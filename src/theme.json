@@ -1,0 +1,33 @@
+{
+  "name": "atelier",
+  "title": "Atelier",
+  "number": "02",
+  "tagline": "A clear line of thought",
+  "description": "Chalk white, precise sans-serif type, and deep teal. An understated studio for technical writing.",
+  "heading": "\"DM Sans\", system-ui, sans-serif",
+  "body": "\"DM Sans\", system-ui, sans-serif",
+  "fonts": [
+    "DM Sans",
+    "IBM Plex Mono"
+  ],
+  "light": {
+    "paper": "#fbfcfa",
+    "ink": "#253e42",
+    "muted": "#526d70",
+    "panel": "#eef3f1",
+    "line": "#cddbd7",
+    "accent": "#176a70",
+    "secondary": "#9a493a",
+    "code": "#edf2f0"
+  },
+  "dark": {
+    "paper": "#152428",
+    "ink": "#e0eeeb",
+    "muted": "#a0b9b9",
+    "panel": "#1b3034",
+    "line": "#365255",
+    "accent": "#84d0c6",
+    "secondary": "#efb0a0",
+    "code": "#1b3034"
+  }
+}
