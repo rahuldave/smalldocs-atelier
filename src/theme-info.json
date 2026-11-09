@@ -1,0 +1,11 @@
+{
+  "name": "atelier",
+  "title": "Atelier",
+  "number": "02",
+  "tagline": "A clear line of thought",
+  "description": "Chalk white, precise sans-serif type, and deep teal. An understated studio for technical writing.",
+  "fonts": [
+    "DM Sans",
+    "IBM Plex Mono"
+  ]
+}
